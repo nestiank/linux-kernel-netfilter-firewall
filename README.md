@@ -7,6 +7,7 @@
 <br>
 [![institution-korea-university][korea-university-image]][korea-university-cs-url]
 ![course-system-programming][course-cose322]
+![grade-b+][grade-b+]
 
 > 넷필터로 리눅스 커널에 방화벽을 추가하여 멀티쓰레딩을 이용하는 클라이언트의 통신 패킷을 제어하는 프로젝트입니다.
 
