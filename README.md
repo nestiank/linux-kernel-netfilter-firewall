@@ -32,5 +32,5 @@
 [course-cose322]: https://img.shields.io/badge/Course-System%20Programming-brightgreen
 [language-c]: https://img.shields.io/badge/Language-C-orange
 [platform-linux]: https://img.shields.io/badge/Platform-Linux-yellowgreen
-[grade-b+]: https://img.shields.io/badge/Grade-A+-yellow
+[grade-b+]: https://img.shields.io/badge/Grade-B+-yellow
 [participants-duo]: https://img.shields.io/badge/Participants-Duo%20Project-7aa3cc
