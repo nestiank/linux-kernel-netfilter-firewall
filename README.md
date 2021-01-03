@@ -1,4 +1,4 @@
-# 넷필터를 이용한 리눅스 커널 방화벽 구현
+# 넷필터를 이용한 리눅스 커널 방화벽과 멀티쓰레딩 구현
 
 ![language-c][language-c]
 ![platform-linux][platform-linux]
@@ -8,11 +8,14 @@
 [![institution-korea-university][korea-university-image]][korea-university-cs-url]
 ![course-system-programming][course-cose322]
 
-> 리눅스 커널에 넷필터를 이용하여 포트 단위 블랙리스트 기반 방화벽을 추가하는 프로젝트입니다.
+> 넷필터로 리눅스 커널에 방화벽을 추가하여 멀티쓰레딩을 이용하는 클라이언트의 통신 패킷을 제어하는 프로젝트입니다.
 
 ### 개발 기간
 
-2020년 12월 4일 - 12월 7일 (4일간)
+  * 클라이언트
+    * 2020년 11월 7일 (1일간)
+  * 넷필터 방화벽
+    * 2020년 12월 4일 - 12월 7일 (4일간)
 
 ### 라이선스 및 공동체 수정
 
